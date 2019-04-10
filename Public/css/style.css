@@ -1,0 +1,15 @@
+#connecter{
+	border:2px solid red;
+	margin-bottom: 20px;
+	text-align: center;
+}
+#message{
+	border:2px solid blue;
+	margin-bottom: 20px;
+	text-align: center;
+}
+form{
+	border:2px solid green;
+	margin-bottom: 20px;
+	text-align: center;
+}
